@@ -1,0 +1,18 @@
+{
+  "name": "XCloud4 Web",
+  "short_name": "XCloud4",
+  "description": "XCloud4 Web — Xbox Cloud Gaming client for your browser. Browse the cloud catalog and launch streams on xbox.com/play.",
+  "start_url": ".",
+  "display": "browser",
+  "background_color": "#0a0c0f",
+  "theme_color": "#0a0c0f",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/asp11edgr/XCloud4/main/assets/icon0.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
